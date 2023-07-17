@@ -2,7 +2,7 @@ Subnet Mask and IP Calculator 🌐📈
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-This project is a Python script to calculate the subnet mask, network address, broadcast address, and the number of available hosts between the IP addresses (wrriten in CIDR notation).
+This project is a Python script to calculate the subnet mask, network address, broadcast address, and the number of available hosts between the IP addresses (written in CIDR notation).
 
 🚀 Features
 
